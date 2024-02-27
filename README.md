@@ -44,3 +44,7 @@ Do you want to close the JSON and TXT files? (y/n): y
 PS C:\Users\nicholas\Microservice>
 ```
 
+<h2>UML Chart</h2>
+(https://github.com/ttherandomaznkid/CS361-Milestone2/assets/114196264/6eacd537-9c7e-471e-a435-e8ebdfaeb034)
+
+
