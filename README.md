@@ -45,6 +45,8 @@ PS C:\Users\nicholas\Microservice>
 ```
 
 <h2>UML Chart</h2>
-(https://github.com/ttherandomaznkid/CS361-Milestone2/assets/114196264/6eacd537-9c7e-471e-a435-e8ebdfaeb034)
+
+![Screenshot 2024-02-27 001109](https://github.com/ttherandomaznkid/CS361-Milestone2/assets/114196264/db635452-e09e-42ed-aaa3-31f0163b650d)
+
 
 
