@@ -1,0 +1,41 @@
+[
+{
+  "name": "John Doe",
+  "age": 30,
+  "email": "john.doe@example.com",
+  "address": {
+    "street": "123 Main St",
+    "city": "Anytown",
+    "state": "CA",
+    "zipcode": "12345"
+  },
+  "phone_numbers": ["123-456-7890", "987-654-3210"],
+  "interests": ["programming", "reading", "hiking"]
+},
+{
+  "name": "Jane Smith",
+  "age": 25,
+  "email": "jane.smith@example.com",
+  "address": {
+    "street": "456 Elm St",
+    "city": "Othertown",
+    "state": "NY",
+    "zipcode": "54321"
+  },
+  "phone_numbers": ["555-555-5555"],
+  "interests": ["painting", "traveling", "photography"]
+},
+{
+  "name": "Will Smith",
+  "age": 25,
+  "email": "jane.smith@example.com",
+  "address": {
+    "street": "456 Elm St",
+    "city": "Othertown",
+    "state": "NY",
+    "zipcode": "54321"
+  },
+  "phone_numbers": ["555-555-5555"],
+  "interests": ["painting", "traveling", "photography"]
+}
+]
